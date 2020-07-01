@@ -1,0 +1,10 @@
+C:\Users\grodr\source\repos\gestao_de_biblioteca\gestao_de_biblioteca\bin\Debug\gestao_de_biblioteca.exe.config
+C:\Users\grodr\source\repos\gestao_de_biblioteca\gestao_de_biblioteca\bin\Debug\gestao_de_biblioteca.exe
+C:\Users\grodr\source\repos\gestao_de_biblioteca\gestao_de_biblioteca\bin\Debug\gestao_de_biblioteca.pdb
+C:\Users\grodr\source\repos\gestao_de_biblioteca\gestao_de_biblioteca\obj\Debug\gestao_de_biblioteca.csprojAssemblyReference.cache
+C:\Users\grodr\source\repos\gestao_de_biblioteca\gestao_de_biblioteca\obj\Debug\gestao_de_biblioteca.Form1.resources
+C:\Users\grodr\source\repos\gestao_de_biblioteca\gestao_de_biblioteca\obj\Debug\gestao_de_biblioteca.Properties.Resources.resources
+C:\Users\grodr\source\repos\gestao_de_biblioteca\gestao_de_biblioteca\obj\Debug\gestao_de_biblioteca.csproj.GenerateResource.cache
+C:\Users\grodr\source\repos\gestao_de_biblioteca\gestao_de_biblioteca\obj\Debug\gestao_de_biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\grodr\source\repos\gestao_de_biblioteca\gestao_de_biblioteca\obj\Debug\gestao_de_biblioteca.exe
+C:\Users\grodr\source\repos\gestao_de_biblioteca\gestao_de_biblioteca\obj\Debug\gestao_de_biblioteca.pdb
